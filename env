@@ -1,0 +1,4 @@
+MONGO_URI=mongodb://localhost:27017/vocabmaster
+JWT_SECRET=vocabmaster-super-secret-2024-change-this
+PORT=5000
+NODE_ENV=development
